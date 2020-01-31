@@ -1,0 +1,223 @@
+body{
+    margin: 0;
+    padding: 0;
+} 
+.btn{
+    margin-left: 20px;
+    color: white;
+    list-style-type: none;
+    padding: 0px;
+    overflow: hidden;
+}
+li{
+    list-style-type: none;
+}
+li input{
+    width: 181px;
+    height: 35px;;
+    margin-right: 10px;
+    margin-left:155px;
+    margin-top: 8px;
+    border-radius: 17px;
+    padding-left:20px; 
+    background-color: #004163;
+    color: white;
+    border: 1px solid white;
+}
+
+input:focus{
+    outline: none;
+    box-shadow: none;
+}
+.search+i{
+    position: absolute;
+    top: 35px;
+    left: 132px;
+    color:white;
+    margin-left: 76px;
+}
+.dropdown{
+    margin-left:30px;
+    margin-top: 18px; 
+    position: relative;
+    color: white;
+}
+.dropdown:hover{
+    color: aqua;
+}
+.nav-item{
+    margin-left: 30px;
+    margin-top: 10px; 
+}
+.logo{
+    margin-left: 38px;
+    margin-top: 1px; 
+}
+.sign{
+    margin-left: 130px;
+    margin-top: 8px; 
+    position: absolute;
+    color:white;
+}
+.sign:hover{
+    color: aqua;
+    text-decoration: none;
+}
+.btn2{
+    margin-left: 100px;
+    margin-left: 180px;
+    margin-top: 4px;
+    background-color: #004163;
+    width: 110px; 
+    height: 40px;;
+    font-size: 14px;
+    border: 1px solid white;
+    color: white;
+}
+.btn2:focus{
+    outline:none;
+    box-shadow:none;
+}
+.row{
+    background-size: cover;
+    z-index: 1;
+    height: 100%;
+    position: absolute;
+}
+.suc{
+    color: white;
+    margin-top: 8px;
+    position: absolute;
+    margin-left: 35px;
+}
+.suc:hover{
+    color: aqua;
+    text-decoration: none;
+}
+.container{
+    position: absolute;
+    margin-left: 0px;
+    width: 100%;
+}
+.text-block{
+    position: absolute;
+    margin-top:-370px;
+    margin-left: 180px;
+    color: #FFFFFF;
+}
+.btn4{
+    border-radius: 5px;
+    color: white;
+    background-color: #2095D2;
+    height: 40px;
+    width: 140px;
+    font-size: 15px;
+    border: 1px solid #2095D2;
+}
+.btn4:focus{
+    outline: none;
+    box-shadow: none;
+}
+.btn4:hover{
+    background-color: #004163;
+    border-color: #004163;
+}
+.card{
+    position:absolute;
+    margin-top: 70px;
+    margin-right: 20px;
+    margin-left: 60px;
+    border-radius: 20px;
+    top: 55%;
+    left:65%;
+    box-sizing: border-box;
+    padding: 40px 20px 30px 30px;
+    width: 320px;
+    height: 420px;
+    padding-left: 16px;
+}
+.cls{
+    width: 300px;
+    height: 400px;
+    position: absolute;
+}
+.text-block p{
+    font-size:15px; 
+}
+.email{
+    border-top-style:hidden;
+    border-left-style:hidden;
+    border-right-style:hidden;
+    border-bottom-style:inset;
+    border-bottom: 1px solid black;
+    width: 285px;
+}
+.psw{
+    border-top-style:hidden;
+    border-left-style:hidden;
+    border-right-style:hidden;
+    border-bottom-style:inset;
+    margin-top: 10px;
+    border-bottom: 1px solid black;
+    width: 285px;
+}
+.fpsw{
+    margin-left:188px;
+    font-size: 12px;
+    color: #24BB90;
+    position: relative;
+}
+.fpsw:hover{
+    color:#24BB90;
+    text-decoration: none;
+
+}
+.btn3{
+    width: 285px;
+    height: 35px;
+    color: white;
+    border-radius: 10px;
+    background-color: #2095D2;
+    margin-top: 18px;
+    border: 1px solid white;
+}
+.btn3:focus{
+    outline: none;
+    box-shadow: none;
+}
+.reg{
+   margin-left: 121px;
+   padding-top: 10px;
+   margin-top: -10px;
+   font-size: 12px;
+   text-decoration: none;
+}
+.reg:hover{
+    text-decoration: none;
+}
+.google{
+    width: 285px;
+    height: 33px;
+    border-radius: 10px;
+    color: red;
+    margin-top: 25px;
+    border: 1px solid red;
+    background-color: white;
+}
+.google:focus{
+    outline: none;
+    box-shadow: none;
+}
+.fb{
+    width: 285px;
+    height: 35px;
+    color: white;
+    border-radius: 10px;
+    background-color: #475993;
+    margin-top: 8px;
+    border: 1px solid white;
+}
+.fb:focus{
+    outline: none;
+    box-shadow: none;
+}
